@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mariannefeng/pause-reset-backend/issues"
   },
-  "homepage": "https://github.com/mariannefeng/pause-reset-backend#readme"
+  "homepage": "https://github.com/mariannefeng/pause-reset-backend#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
